@@ -1,0 +1,5 @@
+{
+  "name": "LogiCalc Entregas",
+  "description": "Calculadora inteligente de orçamento de entregas com múltiplos pontos, otimização de rota via IA e integração com WhatsApp.",
+  "requestFramePermissions": []
+}
